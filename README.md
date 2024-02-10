@@ -12,7 +12,7 @@ Este proyecto es un componente de tarjeta minimalista para mostrar información 
 
 ## Demo
 
-Puedes ver una demostración de la aplicación en acción [Encryptor-Challenge](https://ibrahim-003.github.io/encryption-challenge/).
+Puedes ver una demostración de la aplicación en acción [Minimal-Blog-Card](https://ibrahim-003.github.io/encryption-challenge/).
 
 ## Capturas de Pantalla
 
