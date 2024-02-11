@@ -1,19 +1,18 @@
 # Minimal-Blog-Card - #devChallenges
 
-Este proyecto es un componente de tarjeta minimalista para mostrar información de blogs o artículos. Utiliza tecnologías como React y Tailwind CSS para crear una interfaz de usuario limpia y elegante.
+This project is a minimalist card component for displaying blog or article information. It utilizes technologies such as React and Tailwind CSS to create a clean and elegant user interface.
 
-## Tecnologías Utilizadas
-
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - React.js
-- Tailwindcss
+- Tailwind CSS
 
 ## Demo
 
-Puedes ver una demostración de la aplicación en acción [Minimal-Blog-Card](https://ibrahim-003.github.io/encryption-challenge/).
+You can see a demonstration of the application in action [Minimal-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/).
 
 ## Capturas de Pantalla
 
-![Presentacion desktop](./src/assets/desktop.png)
+![Presentacion desktop](./public/desktop.png)
